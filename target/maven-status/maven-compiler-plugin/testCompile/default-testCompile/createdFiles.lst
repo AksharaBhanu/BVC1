@@ -1,0 +1,4 @@
+generic\BaseTest.class
+generic\Excel.class
+pages\LoginPage.class
+scripts\Demo1.class

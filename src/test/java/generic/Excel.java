@@ -7,7 +7,7 @@ import org.apache.poi.ss.usermodel.WorkbookFactory;
 
 public class Excel {
 
-	public static String geXlData(String path,String sheet,int r,int c) {
+	public static String getData(String path,String sheet,int r,int c) {
 		String v="";
 		try
 		{
@@ -20,7 +20,7 @@ public class Excel {
 		return v;
 	}
 	
-	public static int geXlRowCount(String path,String sheet) {
+	public static int geRowCount(String path,String sheet) {
 		int count=0;
 		try
 		{

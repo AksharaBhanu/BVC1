@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 C:\Users\user\Desktop\BVC\FrameWork\online\src\test\java\generic\BaseTest.java
 C:\Users\user\Desktop\BVC\FrameWork\online\src\test\java\pages\HomePage.java
 C:\Users\user\Desktop\BVC\FrameWork\online\src\test\java\generic\Excel.java
 C:\Users\user\Desktop\BVC\FrameWork\online\src\test\java\scripts\ValidLogin.java
 C:\Users\user\Desktop\BVC\FrameWork\online\src\test\java\scripts\InvalidLogin.java
 C:\Users\user\Desktop\BVC\FrameWork\online\src\test\java\pages\LoginPage.java
+=======
+C:\Users\user\git\BVC1\src\test\java\generic\Excel.java
+C:\Users\user\git\BVC1\src\test\java\scripts\Demo1.java
+C:\Users\user\git\BVC1\src\test\java\pages\HomePage.java
+C:\Users\user\git\BVC1\src\test\java\pages\LoginPage.java
+C:\Users\user\git\BVC1\src\test\java\generic\BaseTest.java
+C:\Users\user\git\BVC1\src\test\java\scripts\ValidLogin.java
+>>>>>>> branch 'master' of https://github.com/AksharaBhanu/BVC1.git

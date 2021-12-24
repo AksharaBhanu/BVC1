@@ -4,11 +4,12 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import generic.BaseTest;
+
 import generic.Excel;
 import pages.HomePage;
 import pages.LoginPage;
 
-public class ValidLogin extends BaseTest {
+public class ValidLogin extends BaseTest{
 
 	@Test(priority = 1)
 	public void testValidLogin() {
@@ -31,5 +32,6 @@ public class ValidLogin extends BaseTest {
 		HomePage homePage=new HomePage(driver);
 		boolean result = homePage.verifyHomePageDisplayed();
 		Assert.assertTrue(result,fMsg);
+
 	}
 }

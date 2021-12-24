@@ -17,4 +17,8 @@ public class HomePage {
 		
 		return welcomeMsg.isDisplayed();
 	}
+
 }
+
+
+

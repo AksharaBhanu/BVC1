@@ -16,6 +16,7 @@ public class LoginPage {
  @FindBy(id="loginButton")
  private WebElement loginBTN;
  
+
  @FindBy(xpath = "//span[contains(text(),'invalid')]")
  private WebElement errMsg;
  
@@ -38,4 +39,6 @@ public class LoginPage {
  public boolean verifyErrMsgDisplayed() {
 	return errMsg.isDisplayed();
  }
+
+
 }

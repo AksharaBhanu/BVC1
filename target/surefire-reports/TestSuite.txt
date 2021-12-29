@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: TestSuite
--------------------------------------------------------------------------------
-<<<<<<< HEAD
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 34.434 s - in TestSuite
-=======
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 30.173 s - in TestSuite
->>>>>>> branch 'master' of https://github.com/AksharaBhanu/BVC1.git
